@@ -1,14 +1,32 @@
 body{
-    font-family: 'Macondo', cursive;
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .head-tag{
     font-size: 100px;
 }
-.specific-one{
+.span-word{
     color: orange;
-    font-size: 50px;
 }
-.left_side{
+section{
+    display: flex;
 }
-.right-side{}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: White;
+    font-size: 20px;
+    
+    padding: 10px 20px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
