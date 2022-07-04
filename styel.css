@@ -23,7 +23,7 @@ section{
     background-image: linear-gradient(orange,tomato);
     color: White;
     font-size: 20px;
-    
+    border-radius: 10px;
     padding: 10px 20px;
 }
 .top-banner{
